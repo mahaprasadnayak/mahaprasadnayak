@@ -21,4 +21,5 @@ Welcome to my Silhouette !!!!!!!
 
 
 -🏠 ... [Portfolio](https://mahaprasadnayak.github.io/mybio/) | 💻 ...[Hackerrank](https://www.hackerrank.com/m_p_nayak2000)
+-📧 ... [Gmail](m.p.nayak2000@gmail.com)
 
