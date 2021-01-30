@@ -10,7 +10,7 @@ Welcome to my Silhouette !!!!!!!
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... My hands are stained with the Code of my Reflection .
 
-Prototype of SMPS-V1
+<h2>Prototype of SMPS-V1<h2>
 <img src="https://github.com/mahaprasadnayak/mahaprasadnayak/blob/main/Drone.gif" width="240">
 
 
