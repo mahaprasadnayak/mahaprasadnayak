@@ -1,6 +1,6 @@
 ### Hi there 👋, I am Mahaprasad
 #### Aspiring SDE
-![Aspiring SDE]
+
 
 I'm a Full-stack Developer , Competitive Programmer, a Technical Writer, and an Open Source Enthusiast who is highly passionate about building fast, creative applications and writing beautiful code. 
 
