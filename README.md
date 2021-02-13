@@ -1,13 +1,19 @@
 ### Hi there 👋, I am Mahaprasad
 
-<img src="https://github.com/mahaprasadnayak/mahaprasadnayak/blob/main/My%20Post.png">
+<img src="https://github.com/mahaprasadnayak/mahaprasadnayak/blob/main/12.png"  width="600" height="300">
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/mahaprasadnayak/count.svg" />
+</p>
 
 
 
 
 
 
-#### Aspiring SDE
+
+
 
 
 I'm a Full-stack Developer , Competitive Programmer, a Technical Writer, and an Open Source Enthusiast who is highly passionate about building fast, creative applications and writing beautiful code. 
