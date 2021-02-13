@@ -13,7 +13,7 @@ Skills: Node JS/REACT / JS /Java/MySQL/ HTML / CSS
 
 ![Mahaprasad's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahaprasadnayak&show_icons=true&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahaprasadnayak)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahaprasadnayak&layout=compact&theme=tokyonight)
 
 
 <h4>Prototype of SMPS-V1 :-<h4>
