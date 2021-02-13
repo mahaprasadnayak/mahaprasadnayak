@@ -1,6 +1,6 @@
 ### Hi there 👋, I am Mahaprasad
 
-<img src="https://github.com/mahaprasadnayak/mahaprasadnayak/blob/main/My Post.PNG">
+<img src="https://github.com/mahaprasadnayak/mahaprasadnayak/blob/main/My%20Post.png">
 
 
 
