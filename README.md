@@ -1,6 +1,6 @@
-### Hi there 👋, I am Mahaprasad
 
-<img src="https://github.com/mahaprasadnayak/mahaprasadnayak/blob/main/12.png"  width="600" height="300">
+
+<img src="https://github.com/mahaprasadnayak/mahaprasadnayak/blob/main/lol.png">
 
 <p align="center"> 
   Visitor count<br>
