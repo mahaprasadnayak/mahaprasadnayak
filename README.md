@@ -20,7 +20,7 @@ I'm a Full-stack Developer , Competitive Programmer, a Technical Writer, and an 
 
 Skills: GO/Node.JS/ React /Java /
 
-- 🔭 I’m currently working on GO
+- 🔭 I’m currently working on Go
 - 💬 Ask me about Software Development 
 - 😄 Pronouns: He/Him 
 - ⚡ Fun fact: My hands are stained with the Code of my Reflection .
