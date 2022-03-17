@@ -1,6 +1,6 @@
 
 
-<img src="https://github.com/mahaprasadnayak/mahaprasadnayak/blob/main/lol.png">
+<img src="https://github.com/mahaprasadnayak/mahaprasadnayak/blob/main/log.gif">
 
 <p align="center"> 
   Visitor count<br>
