@@ -23,7 +23,7 @@ Skills: GO/Node.JS/ React /Java /
 - 🔭 I’m currently working on Go
 - 💬 Ask me about Software Development 
 - 😄 Pronouns: He/Him 
-- ⚡ Fun fact: My hands are stained with the Code of my Reflection .
+- ⚡ Fun fact: What is the computer's favorite snack to eat? -Microchips!
 
 ![Mahaprasad's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahaprasadnayak&show_icons=true&theme=tokyonight)
 
